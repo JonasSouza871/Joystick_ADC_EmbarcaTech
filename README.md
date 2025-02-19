@@ -1,6 +1,4 @@
-Ok, com base nos arquivos que você me forneceu (o código-fonte `main.c` e o `CMakeLists.txt`), aqui está um template de README.md preenchido para o seu projeto de joystick, LEDs e display OLED:
 
-```markdown
 # 🕹️ Controle de LEDs e Display OLED com Joystick e Raspberry Pi Pico W
 
 Este projeto demonstra como controlar LEDs (azul, vermelho e verde) e interagir com um display OLED usando um joystick e botões em uma Raspberry Pi Pico W. O joystick controla a intensidade dos LEDs e a posição de um retângulo no display. Os botões permitem alternar o estado do LED verde, mudar o estilo da borda do display e ativar/desativar o controle PWM dos LEDs.
