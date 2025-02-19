@@ -155,9 +155,6 @@ make
 
 ---
 
-## 🔗 **Diagrama do Circuito**
-
-[Inserir aqui um diagrama do circuito.  Pode ser um link para uma imagem ou um diagrama criado com ferramentas como Fritzing ou similares.]
 
 ## 🔗 **Vídeo de Funcionamento**
 
@@ -165,8 +162,8 @@ make
 
 ## 📞 **Contato**
 
-*   👤 **Autor:** [Seu Nome]
-*   📧 **E-mail:** [Seu Email]
+*   👤 **Autor:** Jonas Souza Pinto
+*   📧 **E-mail:** Jonassouza871@hotmail.com
 
 ---
 ```
