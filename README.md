@@ -54,10 +54,8 @@ Display OLED SCL: 15
 ├── generated/            # Diretório para arquivos gerados
 ├── .gitignore            # Arquivos ignorados pelo Git
 ├── CMakeLists.txt        # Configuração do CMake para o build
-├── diagram.json          # Diagrama do circuito para simulação no Wokwi (opcional)
 ├── main.c                # Código fonte principal do projeto
 ├── pico_sdk_import.cmake # Importa o Pico SDK para o CMake
-└── wokwi.toml            # Configuração para simulação no Wokwi (opcional)
 ```
 
 ---
